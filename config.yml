@@ -1,0 +1,18 @@
+debug: false
+uuid: e1f2dcae-eeb3-4093-a055-82d9274bfac6
+token_id: TqLfU3kRMJLQQDMp
+token: ZoUCzMkYDEqRV4atoyDWVwedUZ8NlvPBiOrwLptXukiQF6T3A3jY2E5IWrWlZCFc
+api:
+  host: 0.0.0.0
+  port: 8080
+  ssl:
+    enabled: true
+    cert: /etc/letsencrypt/live/node01.thehangoutmc.xyz/fullchain.pem
+    key: /etc/letsencrypt/live/node01.thehangoutmc.xyz/privkey.pem
+  upload_limit: 100
+system:
+  data: /var/lib/pterodactyl/volumes
+  sftp:
+    bind_port: 2022
+allowed_mounts: []
+remote: 'https://panel01.thehangoutmc.xyz'
